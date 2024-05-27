@@ -16,7 +16,7 @@ For this, we first standardized the dataset in metrics using StandardScaler. For
 
 A graph showing the detection of anomalies in one of the four key data metrics according to the problem statement:
 
-<img src="https://i.imgur.com/CxRd18a.png" alt="anom1"/>
+<img src="https://i.imgur.com/H4ilJvg.png" alt="anom1"/>
 
 To reflect the important time points with key metrics when an incident occurred, we implemented the following approach. We clustered all the anomalies with a given time step and a minimum number of anomalies in the cluster, in order to reflect separate periods of failures and discard point-in-time failures. This way, we obtained the key periods of failures.
 
