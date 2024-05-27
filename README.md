@@ -7,6 +7,8 @@
 
 ## Business Objectives:
 
+I would like to express my gratitude to the colleague who made an invaluable contribution to the creation of this project: [Pirogov Dmitriy](https://github.com/PirogovDmitriy/) 
+
 The main goal of the project is to create an algorithm that highlights only the important data at the moment of an incident in the system's operation. Such an algorithm will simplify the search for the root causes of malfunctions.
 
 ### Objectives:
