@@ -43,5 +43,6 @@ The most challenging part was to bring the project to a polished state. The hack
 
 - Python
 - Pandas
+- Numpy
 - Sklearn
 - Matplotlib.pyplot
