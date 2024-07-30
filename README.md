@@ -1,4 +1,4 @@
-# Hacathon1: Development of a model for finding correlations in data
+# Hackathon1: Development of a model for finding correlations in data
 
 
 
